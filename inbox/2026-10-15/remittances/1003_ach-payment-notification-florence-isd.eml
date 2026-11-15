@@ -1,0 +1,23 @@
+From: Florence ISD Business Office <skyward-noreply@fisd-tx.net>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Thu, 15 Oct 2026 09:03:21 -0500
+Subject: ACH Payment Notification - Florence ISD
+Message-ID: <8bf486025008ad14.090321@fisd-tx.net>
+Authentication-Results: mx.innovamat.com; spf=pass smtp.mailfrom=fisd-tx.net;
+ dkim=pass header.d=fisd-tx.net; dmarc=pass header.from=fisd-tx.net
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+The following payment has been issued to your account.
+
+Vendor: INNOVAMAT EDUCATION INC (INN82445)
+Payment date: 10/15/2026
+
+Invoice           PO            Amount  ACH Number
+INV-001-26000698  2027-00390  3,900.00  970556
+
+Paid per invoice.
+
+Florence ISD
+Business Office

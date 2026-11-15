@@ -1,0 +1,32 @@
+From: Port Chester-Rye Union Free School District Accounts Payable
+ <munis-noreply@pcrufsd-ny.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Mon, 19 Oct 2026 05:43:27 -0400
+Subject: EFT Remittance - Vendor INN4282 - EFT 00052207
+Message-ID: <d516aca1ebeb8b21.054327@pcrufsd-ny.org>
+Authentication-Results: mx.innovamat.com; spf=pass
+ smtp.mailfrom=pcrufsd-ny.org; dkim=pass header.d=pcrufsd-ny.org; dmarc=pass
+ header.from=pcrufsd-ny.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+PORT CHESTER-RYE UNION FREE SCHOOL DISTRICT
+EFT REMITTANCE ADVICE
+
+Vendor: INNOVAMAT EDUCATION INC
+Vendor Number: INN4282
+EFT Number: 00052207
+EFT Date: 10/19/2026
+EFT Amount: 17,790.00
+
+Invoice           Invoice Date  PO        Description               Gross  Di=
+scount        Net
+INV-001-26000591  07/07/2026    P2700565  CURRICULUM MATERIALS  17,790.00    =
+  0.00  17,790.00
+
+Total: 17,790.00
+
+This message was generated automatically by the district's financial system. =
+Please do not reply to this address. For questions contact cthornton@pcrufsd-=
+ny.org.

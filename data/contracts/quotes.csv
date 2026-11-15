@@ -1,0 +1,24 @@
+quote_id,customer_id,start_school_year,years,annual_amounts,invoicing_scheme,signed_date,notes
+ES-001-24000022,8989,2026-27,1,24400.00,SINGLE: invoiced on order confirmation,2026-08-07,Single school year.
+ES-001-24000029,29862,2026-27,1,32840.00,SINGLE: invoiced on order confirmation,2026-08-14,Single school year.
+ES-001-24000051,8991,2026-27,1,89457.21,SINGLE: invoiced on order confirmation,2026-08-01,Single school year.
+ES-001-24000091,30359,2026-27,1,10000.00,SINGLE: invoiced on order confirmation,2026-08-23,Single school year.
+ES-001-24000138,29796,2025-26,1,39517.20,SINGLE: invoiced on order confirmation,2025-07-13,Single school year.
+ES-001-24000340,30495,2026-27,1,8016.80,SINGLE: invoiced on order confirmation,2026-07-20,Single school year.
+ES-001-24000359,30515,2026-27,1,18999.00,SINGLE: invoiced on order confirmation,2026-08-14,Single school year.
+ES-001-26000413,31373,2026-27,3,202655.00|202655.00|202655.00,"UPFRONT: 2026-07-01 607965.00 (school years 2026-27 to 2028-29, agreed by the district in the quote)",2026-04-30,District approved upfront invoicing of all school years (board resolution).
+ES-001-26000415,31117,2026-27,2,39000.00|39000.00,ANNUAL: 2026-07-01 39000.00 | 2027-07-01 39000.00,2026-06-09,Annual invoicing on July 1 of each school year.
+ES-001-26000422,31343,2026-27,3,17790.00|17790.00|17790.00,ANNUAL: 2026-07-01 17790.00 | 2027-07-01 17790.00 | 2028-07-01 17790.00,2026-06-10,Annual invoicing on July 1 of each school year.
+ES-001-26000428,31742,2026-27,3,24800.00|25440.00|26040.00,ANNUAL: 2026-07-01 24800.00 | 2027-07-01 25440.00 | 2028-07-01 26040.00,2026-04-21,Annual invoicing on July 1 of each school year.
+ES-001-26000431,32030,2026-27,3,36700.00|36700.00|36700.00,ANNUAL: 2026-07-01 36700.00 | 2027-07-01 36700.00 | 2028-07-01 36700.00,2026-05-10,Annual invoicing on July 1 of each school year.
+ES-001-26000436,30486,2026-27,5,118711.57|118711.57|118711.57|118711.57|118711.57,"UPFRONT: 2026-07-01 593557.85 (school years 2026-27 to 2030-31, agreed by the district in the quote)",2026-05-23,District approved upfront invoicing of all school years (board resolution).
+ES-001-26000437,31614,2026-27,5,410930.44|410930.44|410930.44|410930.44|410930.44,"UPFRONT: 2026-07-01 2054652.20 (school years 2026-27 to 2030-31, agreed by the district in the quote)",2026-05-26,District approved upfront invoicing of all school years (board resolution).
+ES-001-26000439,30173,2026-27,3,19929.10|19929.10|19929.10,ANNUAL: 2026-07-01 19929.10 | 2027-07-01 19929.10 | 2028-07-01 19929.10,2026-05-27,Annual invoicing on July 1 of each school year.
+ES-001-26000444,32051,2026-27,3,31388.80|31388.80|31388.80,ANNUAL: 2026-07-01 31388.80 | 2027-07-01 31388.80 | 2028-07-01 31388.80,2026-05-30,Annual invoicing on July 1 of each school year.
+ES-001-26000446,29739,2026-27,3,46185.00|46185.00|46185.00,ANNUAL: 2026-07-01 46185.00 | 2027-07-01 46185.00 | 2028-07-01 46185.00,2026-05-31,Annual invoicing on July 1 of each school year.
+ES-001-26000454,29789,2026-27,3,37000.00|38300.00|39700.00,ANNUAL: 2026-07-01 37000.00 | 2027-07-01 38300.00 | 2028-07-01 39700.00,2026-06-03,Annual invoicing on July 1 of each school year.
+ES-001-26000456,32002,2026-27,3,19600.00|20280.40|20960.40,ANNUAL: 2026-07-01 19600.00 | 2027-07-01 20280.40 | 2028-07-01 20960.40,2026-05-26,Annual invoicing on July 1 of each school year.
+ES-001-26000457,31719,2026-27,3,51322.80|51322.80|51322.80,ANNUAL: 2026-07-01 51322.80 | 2027-07-01 51322.80 | 2028-07-01 51322.80,2026-05-23,Annual invoicing on July 1 of each school year.
+ES-001-26000460,31791,2026-27,3,29076.72|29076.72|29076.72,ANNUAL: 2026-07-01 29076.72 | 2027-07-01 29076.72 | 2028-07-01 29076.72,2026-05-28,Annual invoicing on July 1 of each school year.
+ES-001-26000462,30560,2026-27,3,16000.00|16000.00|16000.00,ANNUAL: 2026-07-01 16000.00 | 2027-07-01 16000.00 | 2028-07-01 16000.00,2026-06-25,Annual invoicing on July 1 of each school year.
+ES-001-26000466,32085,2026-27,3,35800.00|35800.00|35800.00,ANNUAL: 2026-07-01 35800.00 | 2027-07-01 35800.00 | 2028-07-01 35800.00,2026-05-21,Annual invoicing on July 1 of each school year.

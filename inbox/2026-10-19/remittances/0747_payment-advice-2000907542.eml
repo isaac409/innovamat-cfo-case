@@ -1,0 +1,26 @@
+From: Accounts Payable <ap.payments@phila-sd.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Mon, 19 Oct 2026 07:47:43 -0400
+Subject: Payment Advice 2000907542
+Message-ID: <52e29a63d4a3acc2.074743@phila-sd.org>
+Authentication-Results: mx.innovamat.com; spf=pass smtp.mailfrom=phila-sd.org;
+ dkim=pass header.d=phila-sd.org; dmarc=pass header.from=phila-sd.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+PAYMENT ADVICE
+The School District of Philadelphia
+
+Payment document: 2000907542
+Payment date: 10/19/2026
+Payment method: ACH
+Vendor: 076209 INNOVAMAT EDUCATION INC
+
+Reference         Document Date  Gross Amount  Deductions  Net Amount
+INV-001-26000750  09/23/2026        18,999.00        0.00   18,999.00
+
+Total: 18,999.00 USD
+
+This advice is sent automatically. Contact Accounts Payable at businessoffice=
+@phila-sd.org with questions.

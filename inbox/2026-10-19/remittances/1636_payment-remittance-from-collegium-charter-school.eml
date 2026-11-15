@@ -1,0 +1,32 @@
+From: Luis Reyes <lreyes@collegiumcs-pa.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Mon, 19 Oct 2026 16:36:13 -0400
+Subject: Payment remittance from Collegium Charter School
+Message-ID: <7741560386c87051.163613@collegiumcs-pa.org>
+Authentication-Results: mx.innovamat.com; spf=pass
+ smtp.mailfrom=collegiumcs-pa.org; dkim=pass header.d=collegiumcs-pa.org;
+ dmarc=pass header.from=collegiumcs-pa.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hello,
+
+Please be advised that payment in the amount of $44,730.00 was sent by wire t=
+ransfer on 10/19/2026 for the invoices listed below.
+
+Invoice Number    Invoice Date     Amount  PO Number
+INV-001-26000578  07/02/2026    39,000.00  PO 27-000974
+INV-001-26000760  09/23/2026     5,730.00
+
+Total paid: $44,730.00
+
+Please contact our office with any questions.
+
+Thank you,
+
+Luis Reyes
+Accounts Payable
+Collegium Charter School
+435 Creamery Way, Exton, PA 19341
+P: (610) 555-0199

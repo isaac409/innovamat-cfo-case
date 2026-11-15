@@ -1,0 +1,31 @@
+From: Upper Freehold Regional School District Accounts Payable
+ <munis-noreply@ufrsd-nj.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Mon, 19 Oct 2026 07:53:46 -0400
+Subject: EFT Remittance - Vendor 40707 - EFT 00018802
+Message-ID: <a6e526d5744266f8.075346@ufrsd-nj.org>
+Authentication-Results: mx.innovamat.com; spf=pass smtp.mailfrom=ufrsd-nj.org;
+ dkim=pass header.d=ufrsd-nj.org; dmarc=pass header.from=ufrsd-nj.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+UPPER FREEHOLD REGIONAL SCHOOL DISTRICT
+EFT REMITTANCE ADVICE
+
+Vendor: INNOVAMAT EDUCATION INC
+Vendor Number: 40707
+EFT Number: 00018802
+EFT Date: 10/19/2026
+EFT Amount: 32,840.00
+
+Invoice           Invoice Date  PO        Description               Gross  Di=
+scount        Net
+INV-001-26000660  09/01/2026    27-00490  CURRICULUM MATERIALS  32,840.00    =
+  0.00  32,840.00
+
+Total: 32,840.00
+
+This message was generated automatically by the district's financial system. =
+Please do not reply to this address. For questions contact dlachance@ufrsd-nj=
+.org.

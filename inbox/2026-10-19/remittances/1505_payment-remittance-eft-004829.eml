@@ -1,0 +1,28 @@
+From: Peter Saldana <psaldana@woodburycity-nj.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Mon, 19 Oct 2026 15:05:00 -0400
+Subject: Payment Remittance - EFT 004829
+Message-ID: <a81f28a213eab61f.150500@woodburycity-nj.org>
+Authentication-Results: mx.innovamat.com; spf=pass
+ smtp.mailfrom=woodburycity-nj.org; dkim=pass header.d=woodburycity-nj.org;
+ dmarc=pass header.from=woodburycity-nj.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Payment Remittance
+Board of Education of the City of Woodbury
+
+EFT Number: 004829
+EFT Date: 10/19/2026
+
+PO #      Invoice #         Invoice Amount  Amount Paid
+27-00144  INV-001-26000667       16,200.00    16,450.00
+
+Amount per the quote approved by the Board on 08/24/2026 ($16,450.00).
+
+Peter Saldana
+Accounts Payable
+Woodbury City Public School District
+25 N. Broad Street, Woodbury, NJ 08096
+P: (856) 555-0189

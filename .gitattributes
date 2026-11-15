@@ -1,0 +1,3 @@
+# Keep every file byte for byte on clone (no CRLF conversion on Windows): bank files and CSVs
+# are parsed exactly as the bank and the ERP produce them.
+* -text

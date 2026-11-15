@@ -1,0 +1,25 @@
+From: Olympia Community Unit School District 16 Business Office
+ <skyward-noreply@olympia16-il.org>
+To: Innovamat Customers <customers@innovamat.com>
+Date: Wed, 14 Oct 2026 06:20:15 -0500
+Subject: ACH Payment Notification - Olympia Community Unit School District 16
+Message-ID: <1b1a45ef2bd1d12d.062015@olympia16-il.org>
+Authentication-Results: mx.innovamat.com; spf=pass
+ smtp.mailfrom=olympia16-il.org; dkim=pass header.d=olympia16-il.org;
+ dmarc=pass header.from=olympia16-il.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+The following payment has been issued to your account.
+
+Vendor: INNOVAMAT EDUCATION INC (V75525)
+Payment date: 10/14/2026
+
+Invoice           PO             Amount  ACH Number
+INV-001-26000594  2027-00910  14,350.00  453785
+
+Paid per purchase order.
+
+Olympia Community Unit School District 16
+Business Office
